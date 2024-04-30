@@ -54,10 +54,10 @@
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
-  ⦿ Connect with me on [LinkedIn](www.linkedin.com/in/ankit-chourey-70a5bb1b0) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-chourey-70a5bb1b0/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](achourey1810@gmail.com) 💌 <br>
 
- -->
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
